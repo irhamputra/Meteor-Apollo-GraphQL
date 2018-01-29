@@ -10,9 +10,9 @@ const App = ({data}) => {
     )
 };
 
-const hiQuery = gql `
+const hiQuery = gql`
     {
-        hi
+      hi
     }
 `;
 
